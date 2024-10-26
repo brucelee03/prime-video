@@ -1,0 +1,22 @@
+.prime-video-img {
+  width: 100%;
+}
+.video-container {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100%;
+  margin-top: -9px;
+  padding: 4px;
+}
+.movies-container {
+  padding: 0 25px;
+  margin: 0 20px;
+}
+.genre {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 26px;
+}
+.comedy-movies {
+  margin-bottom: 30px;
+}

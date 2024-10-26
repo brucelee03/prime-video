@@ -1,0 +1,30 @@
+.trigger-button {
+  background-color: transparent;
+  border-width: 0;
+}
+.thumbnail-img {
+  width: 98%;
+}
+.popup-content {
+  width: 65%;
+  padding: 5px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.close-button {
+  width: 30px;
+  background-color: transparent;
+  border-width: 0;
+  align-self: flex-end;
+  margin-bottom: 12px;
+}
+.close-icon {
+  color: #231f20;
+}
+.video-item {
+  padding: 0 20px 20px 20px;
+}
+.video-player {
+  width: 100%;
+}
